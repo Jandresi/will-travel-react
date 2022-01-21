@@ -6,7 +6,7 @@ const Footer = () => {
         <div className='foot'>
             <div className='seccion-footer'>
                 <h5><i className='fas fa-map-marker-alt'></i> Buenaventura - Colombia</h5>
-                <h5><i className='fas fa-phone-alt'></i> (602)24-22222</h5>
+                <h5><i className='fas fa-phone-alt'></i> (602)24-12345</h5>
                 <h5><i className='fab fa-whatsapp'></i> +57 310 123 4567</h5>
             </div>
             <div className='seccion-footer'>

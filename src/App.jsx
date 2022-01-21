@@ -14,19 +14,19 @@ function App() {
       <article className='playas'>
         <Playa
           id='bocana'
-          descripcion='Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab tempore, voluptates recusandae nesciunt dolor tempora, corporis illo rem perspiciatis veniam, eaque at hic sit reprehenderit voluptas alias. Voluptatem, placeat modi'
+          descripcion='Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab tempore, voluptates recusandae nesciunt dolor tempora, corporis illo rem perspiciatis veniam, eaque at hic sit reprehenderit'
         />
         <Playa
           id='pianguita'
-          descripcion='Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab tempore, voluptates recusandae nesciunt dolor tempora, corporis illo rem perspiciatis veniam, eaque at hic sit reprehenderit voluptas alias. Voluptatem, placeat modi'
+          descripcion='Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab tempore, voluptates recusandae nesciunt dolor tempora, corporis illo rem perspiciatis veniam, eaque at hic sit reprehenderit'
         />
         <Playa
           id='magüipi'
-          descripcion='Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab tempore, voluptates recusandae nesciunt dolor tempora, corporis illo rem perspiciatis veniam, eaque at hic sit reprehenderit voluptas alias. Voluptatem, placeat modi'
+          descripcion='Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab tempore, voluptates recusandae nesciunt dolor tempora, corporis illo rem perspiciatis veniam, eaque at hic sit reprehenderit'
         />
         <Playa
           id='ladrilleros'
-          descripcion='Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab tempore, voluptates recusandae nesciunt dolor tempora, corporis illo rem perspiciatis veniam, eaque at hic sit reprehenderit voluptas alias. Voluptatem, placeat modi'
+          descripcion='Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab tempore, voluptates recusandae nesciunt dolor tempora, corporis illo rem perspiciatis veniam, eaque at hic sit reprehenderit'
         />
       </article>
 
@@ -39,17 +39,17 @@ function App() {
             <Plan
               id='will-tranqui'
               plan='WILL TRANQUI'
-              descripcion='Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab tempore, voluptates recusandae nesciunt dolor tempora'
+              descripcion='Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab tempore, voluptates recusandae'
             />
             <Plan
               id='will-romantic'
               plan='WILL ROMANTIC'
-              descripcion='Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab tempore, voluptates recusandae nesciunt dolor tempora'
+              descripcion='Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab tempore, voluptates recusandae'
             />
             <Plan
               id='will-adventour'
               plan='WILL ADVENTOUR'
-              descripcion='Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab tempore, voluptates recusandae nesciunt dolor tempora'
+              descripcion='Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab tempore, voluptates recusandae'
             />
           </section>
         </article>
