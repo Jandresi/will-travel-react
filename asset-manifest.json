@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/will-travel-react/static/css/main.bd84e6f4.css",
-    "main.js": "/will-travel-react/static/js/main.81d34af2.js",
+    "main.js": "/will-travel-react/static/js/main.24f95a8f.js",
     "static/media/muelle.jpeg": "/will-travel-react/static/media/muelle.cd4cdf5b2b319e4d939c.jpeg",
     "static/media/playa1.jpg": "/will-travel-react/static/media/playa1.4734d4c814d883e6f7bb.jpg",
     "static/media/Pianguita.jpg": "/will-travel-react/static/media/Pianguita.ccbf582930765f7ed7e0.jpg",
@@ -15,10 +15,10 @@
     "static/media/will-romantic.jpg": "/will-travel-react/static/media/will-romantic.5d371e21e4f74c926815.jpg",
     "index.html": "/will-travel-react/index.html",
     "main.bd84e6f4.css.map": "/will-travel-react/static/css/main.bd84e6f4.css.map",
-    "main.81d34af2.js.map": "/will-travel-react/static/js/main.81d34af2.js.map"
+    "main.24f95a8f.js.map": "/will-travel-react/static/js/main.24f95a8f.js.map"
   },
   "entrypoints": [
     "static/css/main.bd84e6f4.css",
-    "static/js/main.81d34af2.js"
+    "static/js/main.24f95a8f.js"
   ]
 }
