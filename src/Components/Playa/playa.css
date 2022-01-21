@@ -1,0 +1,26 @@
+.playa {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: 2% 2%;
+    box-shadow: 10px 5px 5px black;
+    border-radius: 15px;
+    max-width: 46%;
+    height: 20rem;
+    text-align: center;
+}
+
+.playa:hover {
+    cursor: pointer;
+    box-shadow: 13px 5px 5px rgb(0, 3, 48);
+}
+
+.parrafo{
+    background-color: rgba(0, 0, 0, 0.3);
+    min-height: 100%;
+    border-radius: 15px;
+    padding: 10% 0px;
+    font-size: 14pt;
+    color: white;
+}
+
