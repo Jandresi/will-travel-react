@@ -1,0 +1,46 @@
+.plan {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    margin: 2% 3%;
+    border: solid 2px;
+    border-radius: 15px;
+    width: 26%;
+    height: 16rem;
+    text-align: center;
+}
+
+.plan:hover {
+    cursor: pointer;
+    opacity: 85%;
+}
+
+#will-tranqui {
+    background-image: url("../../img/banquita.jpeg");
+    background-size: cover;
+}
+
+#will-romantic {
+    background-image: url("../../img/will-romantic.jpg");
+    background-size: cover;
+}
+
+#will-adventour {
+    background-image: url("../../img/muelle.jpeg");
+    background-size: cover;
+}
+
+.parrafo{
+    background-color: rgba(0, 0, 0, 0.3);
+    min-height: 100%;
+    border-radius: 15px;
+    padding: 10% 0px;
+    font-size: 14pt;
+    color: white;
+}
+
+@media(max-width: 900px) {
+    .plan {
+        width: 60%;
+    }
+}

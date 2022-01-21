@@ -5,7 +5,7 @@
     margin: 2% 2%;
     box-shadow: 10px 5px 5px black;
     border-radius: 15px;
-    max-width: 46%;
+    width: 46%;
     height: 20rem;
     text-align: center;
 }
@@ -24,3 +24,26 @@
     color: white;
 }
 
+#bocana {
+    background-image: url("../../img/Bocana2.jpg");
+    background-size: cover;
+}
+
+#pianguita {
+    background-image: url("../../img/Pianguita.jpg");
+}
+
+#magüipi {
+    background-image: url("../../img/Maguipi.jpg");
+}
+
+#ladrilleros {
+    background-image: url("../../img/Ladrilleros.jpg");
+    background-size: cover;
+}
+
+@media(max-width: 900px) {
+    .playa {
+        width: 80%;
+    }
+}

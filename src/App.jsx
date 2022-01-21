@@ -2,6 +2,7 @@ import './App.css';
 import Footer from './Components/Footer/Footer';
 import Navbar from './Components/Navbar/Navbar';
 import Playa from './Components/Playa/Playa';
+import Plan from './Components/Plan/Plan';
 
 function App() {
   return (
@@ -28,6 +29,31 @@ function App() {
           descripcion='Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab tempore, voluptates recusandae nesciunt dolor tempora, corporis illo rem perspiciatis veniam, eaque at hic sit reprehenderit voluptas alias. Voluptatem, placeat modi'
         />
       </article>
+
+      <div className="articulos">
+        <article>
+          <section>
+            <h2 className="titulo-seccion">TIPOS DE PLAN</h2>
+          </section>
+          <section className="articulo">
+            <Plan
+              id='will-tranqui'
+              plan='WILL TRANQUI'
+              descripcion='Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab tempore, voluptates recusandae nesciunt dolor tempora'
+            />
+            <Plan
+              id='will-romantic'
+              plan='WILL ROMANTIC'
+              descripcion='Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab tempore, voluptates recusandae nesciunt dolor tempora'
+            />
+            <Plan
+              id='will-adventour'
+              plan='WILL ADVENTOUR'
+              descripcion='Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ab tempore, voluptates recusandae nesciunt dolor tempora'
+            />
+          </section>
+        </article>
+      </div>
 
       <footer>
         <Footer />

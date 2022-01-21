@@ -13,15 +13,6 @@ header:hover {
   transition: 0.3s;
 }
 
-footer {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
-  padding: 2% 5%;
-  background: linear-gradient(0deg, rgba(29,21,24,1) 9%, rgba(74,60,51,1) 36%, rgba(152,129,99,1) 73%, rgba(218,198,171,0.9418412112118153) 100%);
-  color: white;
-}
-
 .playas {
     margin: 0% 10%;
     padding: 3% 0%;
@@ -30,26 +21,25 @@ footer {
     justify-content: center;
 }
 
-#bocana {
-    background-image: url("../src/img/Bocana2.jpg");
-    background-size: cover;
-}
-
-#pianguita {
-    background-image: url("../src/img/Pianguita.jpg");
-}
-
-#magüipi {
-    background-image: url("../src/img/Maguipi.jpg");
-}
-
-#ladrilleros {
-    background-image: url("../src/img/Ladrilleros.jpg");
-    background-size: cover;
+.titulo-seccion{
+    text-align: center;
+    font-weight: bold;
 }
 
 .articulos {
     background-image: url("../src/img/arena-fondo.jpg");
     background-size: cover;
     padding: 2% 0%;
+}
+
+.articulo {
+    margin: 0% 10%;
+    padding: 3% 0%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+footer {
+  background: linear-gradient(0deg, rgba(29,21,24,1) 9%, rgba(74,60,51,1) 36%, rgba(152,129,99,1) 73%, rgba(218,198,171,0.9418412112118153) 100%);
 }
