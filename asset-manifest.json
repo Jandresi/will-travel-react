@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/will-travel-react/static/css/main.bd84e6f4.css",
+    "main.js": "/will-travel-react/static/js/main.81d34af2.js",
+    "static/media/muelle.jpeg": "/will-travel-react/static/media/muelle.cd4cdf5b2b319e4d939c.jpeg",
+    "static/media/playa1.jpg": "/will-travel-react/static/media/playa1.4734d4c814d883e6f7bb.jpg",
+    "static/media/Pianguita.jpg": "/will-travel-react/static/media/Pianguita.ccbf582930765f7ed7e0.jpg",
+    "static/media/banquita.jpeg": "/will-travel-react/static/media/banquita.ff434068dbcb89da64f5.jpeg",
+    "static/media/Ladrilleros.jpg": "/will-travel-react/static/media/Ladrilleros.2c62703acb667694ee2b.jpg",
+    "static/media/Maguipi.jpg": "/will-travel-react/static/media/Maguipi.11f8866939cd56518be4.jpg",
+    "static/media/WillTravelLogo.png": "/will-travel-react/static/media/WillTravelLogo.c071e003bdd83b9d325e.png",
+    "static/media/arena-fondo.jpg": "/will-travel-react/static/media/arena-fondo.fcfbea63b813668c0f6f.jpg",
+    "static/media/Bocana2.jpg": "/will-travel-react/static/media/Bocana2.e8df50c5a5e12ae6f9bc.jpg",
+    "static/media/avion.png": "/will-travel-react/static/media/avion.d5576b69ebcab6edf9b2.png",
+    "static/media/will-romantic.jpg": "/will-travel-react/static/media/will-romantic.5d371e21e4f74c926815.jpg",
+    "index.html": "/will-travel-react/index.html",
+    "main.bd84e6f4.css.map": "/will-travel-react/static/css/main.bd84e6f4.css.map",
+    "main.81d34af2.js.map": "/will-travel-react/static/js/main.81d34af2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd84e6f4.css",
+    "static/js/main.81d34af2.js"
+  ]
+}
